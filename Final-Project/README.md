@@ -1,5 +1,5 @@
 # Final Project:
-![alt text](Final Project.png)
+![Image](https://github.com/wasfyelbaz/RoboTech-WorkShop2021/blob/main/Final-Project/Final%20Project.png)
 
 ```#include <LiquidCrystal.h>
 #include <Servo.h>
